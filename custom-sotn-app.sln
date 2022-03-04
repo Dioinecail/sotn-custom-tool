@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.30225.117
+VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "custom-sotn-app", "custom-sotn-app.csproj", "{C6DB94B2-B915-41C8-BC00-894B2B1330CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "custom-sotn-app", "src\custom-sotn-app.csproj", "{5EFADB97-00B7-48A1-BDAA-252C6F48A748}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C6DB94B2-B915-41C8-BC00-894B2B1330CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C6DB94B2-B915-41C8-BC00-894B2B1330CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C6DB94B2-B915-41C8-BC00-894B2B1330CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C6DB94B2-B915-41C8-BC00-894B2B1330CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EFADB97-00B7-48A1-BDAA-252C6F48A748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EFADB97-00B7-48A1-BDAA-252C6F48A748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EFADB97-00B7-48A1-BDAA-252C6F48A748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EFADB97-00B7-48A1-BDAA-252C6F48A748}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {4BA6C278-1B4B-4E6C-822A-4725223133E4}
+		SolutionGuid = {D1714262-6A59-4F92-81FA-8F3C27292C40}
 	EndGlobalSection
 EndGlobal

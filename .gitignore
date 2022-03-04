@@ -1,5 +1,8 @@
+/bin
+/obj
 /src/bin
 /src/obj
-../BizHawk
+BizHawk
 SotnApi.dll
 SotnApi.xml
+.vs/
